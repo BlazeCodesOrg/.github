@@ -1,0 +1,2 @@
+# BlazeCodes
+Welcome to BlazeCodes!
