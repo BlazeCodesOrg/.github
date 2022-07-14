@@ -1,2 +1,2 @@
 # BlazeCodes
-Welcome to BlazeCodes!
+Blazingly Fast Code!
